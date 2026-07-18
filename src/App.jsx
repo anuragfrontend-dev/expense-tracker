@@ -1,5 +1,5 @@
 import { useState,useEffect } from 'react'
-import { Header } from './components/header'
+import { Header } from './components/Header'
 import { SummaryCards } from './components/SummaryCards'
 import { AddTransaction } from './components/AddTransaction'
 import { ExpenseChart } from './components/ExpenseChart'
