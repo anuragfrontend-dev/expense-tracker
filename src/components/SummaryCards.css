@@ -43,4 +43,21 @@
     gap: 15px;
     margin-bottom: 20px;
   }
+
+  .card {
+  background: #1e293b; 
+  padding: 16px; 
+  border-radius: 16px;
+  border: 1px solid #334155; 
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+ }
+ .card p { 
+  color: #94a3b8; 
+  font-size: 12px; 
+}
+
+.card h2 { 
+  font-size: 18px; 
+  margin-top: 5px; 
+}
 }
